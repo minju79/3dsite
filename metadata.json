@@ -1,0 +1,6 @@
+{
+  "name": "Korean Coastal Tiger — 3D Ride",
+  "description": "An interactive Three.js 3D coastal cycling scene featuring a cute Korean tiger riding a bicycle along a scenic Korean coastal road.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
